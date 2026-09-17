@@ -1,3 +1,5 @@
+The High Tide is a band based in Saint John, NB, Canada, serving up hot covers and new music inspired by 60's soul!
+
 ![The High Tide](img/the-high-tide.jpg)
 
 Our lineup:
